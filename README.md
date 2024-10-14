@@ -2,7 +2,8 @@
 #Confira meus Dois principais repositórios
 
 Front:
-System NGPD https://github.com/AdrianoSilva22/NGPD.Manager.Client.git
+System NGPD 
+https://github.com/AdrianoSilva22/NGPD.Manager.Client
 
  
 back:
