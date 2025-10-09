@@ -1,4 +1,4 @@
-## Olá eu sou o Adriano e amo a área de programação🚀
+## Olá eu sou o Adriano e sou Desenvolvedor de Software desde 2024🚀
 #Confira meus Dois principais repositórios
 
 Front:
